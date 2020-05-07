@@ -3,9 +3,6 @@ def greet_characters(array)
   # array = ["snoopy", "toby", "scooby"]
 array.each do |character|
     print "Hello #{character}! "
-# { |array| print array  + "\n"}
-
-
 end 
 
   # Use `each` to enumerate over the provided array
