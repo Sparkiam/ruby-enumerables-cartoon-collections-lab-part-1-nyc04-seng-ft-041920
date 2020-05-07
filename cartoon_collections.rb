@@ -4,7 +4,7 @@ def greet_characters(array)
 array.each do |character|
   x = 0
   
-  if array = x
+  if array == x
     print "Hello"   
     x += 1
   end 
