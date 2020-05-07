@@ -2,10 +2,7 @@ def greet_characters(array)
   
   # array = ["snoopy", "toby", "scooby"]
 array.each do |character|
-  x = 0
-
     print "Hello"   
-  end 
 # { |array| print array  + "\n"}
 
 
