@@ -1,5 +1,7 @@
 def greet_characters(array)
-array.each do |array|
+  
+  # array = ["snoopy", "toby", "scooby"]
+array.each do |character|
   x = 0
   
   if array = x
