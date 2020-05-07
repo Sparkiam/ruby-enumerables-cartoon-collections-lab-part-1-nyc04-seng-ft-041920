@@ -3,10 +3,8 @@ def greet_characters(array)
   # array = ["snoopy", "toby", "scooby"]
 array.each do |character|
   x = 0
-  
-  if array == 
+
     print "Hello"   
-    x += 1
   end 
 # { |array| print array  + "\n"}
 
